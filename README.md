@@ -1,3 +1,8 @@
 # landing.laravel
 
-install php artisan migrate --seed
+Add migrate in BD and seed :
+
+php artisan migrate --seed
+
+Panel Admin - /admin
+
